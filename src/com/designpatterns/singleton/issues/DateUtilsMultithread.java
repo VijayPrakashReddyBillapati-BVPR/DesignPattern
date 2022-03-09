@@ -1,4 +1,4 @@
-package com.designpatterns.singleton.problems;
+package com.designpatterns.singleton.issues;
 
 public class DateUtilsMultithread {
 	private static DateUtilsMultithread instance;
