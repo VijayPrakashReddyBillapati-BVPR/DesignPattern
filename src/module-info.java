@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author billa
+ *
+ */
+module designPatterns {
+}
