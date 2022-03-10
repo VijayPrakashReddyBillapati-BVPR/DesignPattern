@@ -1,7 +1,7 @@
 package com.designpatterns.factory;
 
 public class PizzaFactory {
-	public static Pizza createPizza(String name)
+	public Pizza createPizza(String name)
 	{
 		Pizza pizza = null;
 		if(name.equalsIgnoreCase("cheese"))
